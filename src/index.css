@@ -1,0 +1,8 @@
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #f3f4f6; /* Modern light-gray web background */
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: #1f2937; /* Clean dark-gray text for readability */
+}
